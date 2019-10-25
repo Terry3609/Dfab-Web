@@ -1,0 +1,58 @@
+Body{
+	Background-Color:#EEE;
+	Font-family: Helvetica, Arial, Sans-serif;
+}
+
+a {
+	Text-decoration: None;
+	Color:red;
+}
+
+H1, H2, H3 {
+	Margin: 0;
+}
+
+#Container{
+	Background-Color: White;
+	Width:800px;
+	Margin-Left: Auto;
+	Margin-Right: Auto;
+}
+
+#header{
+	Background-Color: #66CCFF;
+	color: White;
+	Text-align: Center;
+	Padding: 10px;
+}
+
+#Content {
+	Padding: 10px;
+}
+
+#Nav{
+	Width: 180px;
+	Float: Left;
+}
+
+#Nav UL {
+	List-Style-Type:None;
+	Padding: 0;
+}
+
+#nav .Selected{
+	font-weight: Bold;
+}
+
+#Main {
+	Width: 600px;
+	Float: Right;
+}
+
+#Footer{
+	Clear:Both;
+	Padding: 10px;
+	Background-Color: #999999;
+	color: White;
+	Text-align: Right;
+}
