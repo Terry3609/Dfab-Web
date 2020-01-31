@@ -13,7 +13,7 @@ H1, H2, H3 {
 }
 
 #Container{
-	Background-Color: Gold;
+	Background-Color:Gold;
 	Width:800px;
 	Margin-Left: Auto;
 	Margin-Right: Auto;
@@ -21,7 +21,7 @@ H1, H2, H3 {
 
 #header{
 	Background-Color: #66CCFF;
-	color: Purple;
+	color:Purple;
 	Text-align: Center;
 	Padding: 10px;
 }
