@@ -5,7 +5,7 @@ Body{
 
 a {
 	Text-decoration: None;
-	Color: Purple;
+	Color: Magenta;
 }
 
 H1, H2, H3 {
@@ -21,7 +21,7 @@ H1, H2, H3 {
 
 #header{
 	Background-Color: #66CCFF;
-	color: Purple;
+	color: Magenta;
 	Text-align: Center;
 	Padding: 10px;
 }
