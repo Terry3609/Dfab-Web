@@ -13,7 +13,7 @@ H1, H2, H3 {
 }
 
 #Container{
-	Background-Color: Magenta;
+	Background-Color: Gold;
 	Width:1000px;
 	Margin-Left: Auto;
 	Margin-Right: Auto;
@@ -53,6 +53,6 @@ H1, H2, H3 {
 	Clear:Both;
 	Padding: 10px;
 	Background-Color: #999999;
-	color: White;
+	color: Magenta;
 	Text-align: Right;
 }
