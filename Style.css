@@ -5,7 +5,7 @@ Body{
 
 a {
 	Text-decoration: None;
-	Color:red;
+	Color:Gold;
 }
 
 H1, H2, H3 {
@@ -13,7 +13,7 @@ H1, H2, H3 {
 }
 
 #Container{
-	Background-Color: White;
+	Background-Color: Purple;
 	Width:800px;
 	Margin-Left: Auto;
 	Margin-Right: Auto;
@@ -31,7 +31,7 @@ H1, H2, H3 {
 }
 
 #Nav{
-	Width: 180px;
+	Width: 150px;
 	Float: Left;
 }
 
