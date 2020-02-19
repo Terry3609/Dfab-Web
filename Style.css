@@ -1,58 +1,58 @@
-Body{
-	Background-Color:#EEE;
-	Font-family: Helvetica, Arial, Sans-serif;
+body {
+	background-color: #eee;
+	font-family: Helvitica, Arial, sans-serif;
+}
+
+#container {
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 a {
-	Text-decoration: None;
-	Color: Maganta;
-}
-
-H1, H2, H3 {
-	Margin: 0;
-}
-
-#Container{
-	Background-Color: red;
-	Width:1000px;
-	Margin-Left: Auto;
-	Margin-Right: Auto;
-}
-
-#header{
-	Background-Color: #66CCFF;
+	text-decoration: none;
 	color: red;
-	Text-align: Center;
-	Padding: 10px;
 }
 
-#Content {
-	Padding: 10px;
+h1, h2, h3 {
+	margin: 0;
+} 
+
+#header {
+	background-color: #66ccff;
+	color: white;
+	text-align: center;
+	padding: 10px;
+} 
+
+#content {
+	padding: 10px;
 }
 
-#Nav{
-	Width: 80.px;
-	Float: Left;
+#nav {
+	width: 180px;
+	float: left;
 }
 
-#Nav UL {
-	List-Style-Type:None;
-	Padding: 0;
+#nav ul {
+	list-style: none;
+	padding: 0;
 }
 
-#nav .Selected{
-	font-weight: Bold;
+#nav .selected {
+	font-weight: bold;
 }
 
-#Main {
-	Width: 600px;
-	Float: Right;
+#main {
+	width: 600px;
+	float: right;
 }
 
-#Footer{
-	Clear:Both;
-	Padding: 10px;
-	Background-Color: #999999;
-	color: red;
-	Text-align: Right;
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
 }
