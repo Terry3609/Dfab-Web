@@ -113,7 +113,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Me{
+.Images-Me{
 	width: 500px;
 	margin-left: 100px;
 	margin-top: 10px;
@@ -121,7 +121,7 @@ p{
 	
 }
 
-.img-Course-Schedule{
+.Images-Course-Schedule{
 	width: 500px;
 	margin-left: 100px;
 	margin-top: 10px;
@@ -130,7 +130,7 @@ p{
 }
 
 
-.img-3DPrinter{
+.Images-3DPrinter{
 	width: 300px;
 	margin-left: 220px;
 	margin-top: 10px;
@@ -139,21 +139,21 @@ p{
 }
 
 
-.img-LaserCutter{
+.Images-LaserCutter{
 	width: 200px;
 	margin-left: 150px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
 
-.img-SoderingIron{
+.Images-SoderingIron{
 	width: 280px;
 	height: 200px;
 	margin-left: 10px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.img-LongPants{
+.Images-LongPants{
 	width: 250px;
 	height: 300px;
 	margin-left: 80px;
@@ -163,7 +163,7 @@ p{
 }
 
 
-.img-CoveredShoes{
+.Images-CoveredShoes{
 	width: 250px;
 	height: 300px;
 	margin-left: 10px;
@@ -173,7 +173,7 @@ p{
 
 
 
-.img-GuyShorthair{
+.Images-GuyShorthair{
 	width: 280px;
 	height: 400px;
 	margin-left: 100px;
@@ -181,7 +181,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-GirlsTiedUpHairs{
+.Images-GirlsTiedUpHairs{
 	width: 300px;
 	height: 400px;
 	margin-left: 10px;
@@ -189,7 +189,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-DoNotCross{
+.Images-DoNotCross{
 	width: 300px;
 	height: 300px;
 	margin-left: 84px;
@@ -197,7 +197,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-DeathSign{
+.Images-DeathSign{
 	width: 300px;
 	height: 300px;
 	margin-left: 10px;
@@ -205,7 +205,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Notepad{
+.Images-Notepad{
 	width: 200px;
 	height: 200px;
 	margin-left: 10px;
@@ -213,7 +213,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-AutoCAD{
+.Images-AutoCAD{
 	width: 200px;
 	height: 200px;
 	margin-left: 10px;
@@ -221,7 +221,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-SketchUp{
+.Images-SketchUp{
 	width: 200px;
 	height: 200px;
 	margin-left: 10px;
@@ -229,7 +229,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Fusion360{
+.Images-Fusion360{
 	width: 200px;
 	height: 200px;
 	margin-left: 10px;
@@ -238,7 +238,7 @@ p{
 
 }
 
-.img-Cura{
+.Images-Cura{
 	width: 200px;
 	height: 200px;
 	margin-left: 10px;
@@ -246,7 +246,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-QURAExample{
+.Images-QURAExample{
 	width: 800px;
 	height: 400px;
 	margin-left: 0px;
@@ -255,7 +255,7 @@ p{
 }
 
 
-.img-SketchupExample{
+.Images-SketchupExample{
 	width: 800px;
 	height: 400px;
 	margin-left: 0px;
@@ -263,7 +263,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Keychain1{
+.Images-Keychain1{
 	width: 320px;
 	height: 400px;
 	margin-left: 0px;
@@ -272,7 +272,7 @@ p{
 }
 
 
-.img-Keychain2{
+.Images-Keychain2{
 	width: 320px;
 	height: 400px;
 	margin-left: 0px;
@@ -281,29 +281,14 @@ p{
 
 }
 
-.img-IL1{
+.Images-IL1{
 	width: 300px;
 	height: 300px;
 	margin-left: 0px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.img-IL2{
-	width: 300px;
-	height: 300px;
-	margin-left: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-
-.img-Bridging{
-	width: 300px;
-	height: 300px;
-	margin-left: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-.img-Bridging1{
+.Images-IL2{
 	width: 300px;
 	height: 300px;
 	margin-left: 0px;
@@ -311,9 +296,14 @@ p{
 	margin-bottom: 10px;
 }
 
-
-
-.img-Infill{
+.Images-Bridging{
+	width: 300px;
+	height: 300px;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.Images-Bridging1{
 	width: 300px;
 	height: 300px;
 	margin-left: 0px;
@@ -321,7 +311,17 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Overhang{
+
+
+.Images-Infill{
+	width: 300px;
+	height: 300px;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.Images-Overhang{
 	width: 320px;
 	height: 400px;
 	margin-left: 0px;
@@ -329,7 +329,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Clearance{
+.Images-Clearance{
 	width: 300px;
 	height: 300px;
 	margin-left: 0px;
@@ -337,14 +337,14 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Clearance1{
+.Images-Clearance1{
 	width: 300px;
 	height: 300px;
 	margin-left: 0px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.img-LaserCuttingOutShape{
+.Images-LaserCuttingOutShape{
 	width: 800px;
 	height: 400px;
 	margin-left: 0px;
@@ -352,7 +352,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-TinkerCAD1{
+.Images-TinkerCAD1{
 	width: 600px;
 	height: 300px;
 	margin-left: 0px;
@@ -360,7 +360,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-TinkerCAD2{
+.Images-TinkerCAD2{
 	width: 600px;
 	height: 300px;
 	margin-left: 0px;
@@ -368,7 +368,7 @@ p{
 	margin-bottom: 10px;
 }
 	
-.img-InspirationalPhoto{
+.Images-InspirationalPhoto{
 	width:400px;
 	height: 300px;
 	margin-left: 0px;
@@ -376,7 +376,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-AutoCADFinal{
+.Images-AutoCADFinal{
 	width: 600px;
 	height: 300px;
 	margin-left: 0px;
@@ -384,7 +384,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-SketchUpParts{
+.Images-SketchUpParts{
 	width: 600px;
 	height: 300px;
 	margin-left: 0px;
@@ -392,16 +392,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-SketchUp3DView{
-	width: 600px;
-	height: 300px;
-	margin-left: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-
-
-.img-LaserCuttingFinal{
+.Images-SketchUp3DView{
 	width: 600px;
 	height: 300px;
 	margin-left: 0px;
@@ -410,7 +401,16 @@ p{
 }
 
 
-.img-LaserCuttingWith3D{
+.Images-LaserCuttingFinal{
+	width: 600px;
+	height: 300px;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.Images-LaserCuttingWith3D{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
@@ -419,7 +419,7 @@ p{
 }
 
 
-.img-Sodering1{
+.Images-Sodering1{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
@@ -427,7 +427,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Sodering2{
+.Images-Sodering2{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
@@ -435,7 +435,7 @@ p{
     margin-bottom: 10px;
 }
 
-.img-Connection1{
+.Images-Connection1{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
@@ -443,7 +443,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Connection2{
+.Images-Connection2{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
@@ -451,7 +451,7 @@ p{
 	margin-bottom: 10px;
 }
 
-.img-Connection3{
+.Images-Connection3{
 	width: 400px;
 	height: 300px;
 	margin-left: 0px;
